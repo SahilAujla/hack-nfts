@@ -1,0 +1,8 @@
+node_modules/
+yarn-error.log
+yarn.lock
+metadata.json
+metadata2.json
+metadata5.json
+metadata10.json
+.env
